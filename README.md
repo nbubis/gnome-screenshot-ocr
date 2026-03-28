@@ -3,6 +3,8 @@
 
 A Gnome Shell extension that passes screenshots through an OCR engine and places the text on the clipboard. 
 
+[<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" height="100">](https://extensions.gnome.org/extension/9338/screenshot-ocr/)
+
 
 # Usage
 
