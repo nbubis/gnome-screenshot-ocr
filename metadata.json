@@ -2,7 +2,7 @@
     "uuid": "screenshot-ocr@nbubis.github.com",
     "name": "Screenshot OCR",
     "description": "Run OCR on screenshots and copy text to clipboard",
-    "shell-version": [ "49" ],
+    "shell-version": [ "49", "50" ],
     "settings-schema": "org.gnome.shell.extensions.screenshot-ocr",
     "url": "https://github.com/nbubis/gnome-screenshot-ocr"
 }
